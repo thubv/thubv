@@ -22,7 +22,9 @@
 - Microsoft Certified: Azure Administrator Associate (AZ-104)  
 - Microsoft Certified: Azure AI Engineer Associate (AI-102)  
 - Microsoft Certified: Azure Solutions Architect Expert (AZ-305)  
-- 情報セキュリティマネジメント試験 (SG) – IPA Japan  
+- 情報セキュリティマネジメント試験 (SG) – IPA Japan
+- Microsoft Certified: AI Business Professional
+
 
 ---
 
